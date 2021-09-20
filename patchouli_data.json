@@ -1,0 +1,16 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "rftoolsbase:manual": {
+      "viewedEntries": [
+        "rftoolsbuilder:builder/builder_intro"
+      ],
+      "bookmarks": [],
+      "history": [
+        "rftoolsbuilder:builder/builder_intro"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

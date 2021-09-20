@@ -1,0 +1,13 @@
+#71D byg:aspen_clearing
+#6C5 byg:aspen_forest
+#556 minecraft:beach
+#3D6 minecraft:cold_ocean
+#109 minecraft:deep_cold_ocean
+#30B byg:flowering_grove
+#010 minecraft:forest
+#678 byg:fresh_water_lake
+#5A3 byg:grove
+#09D byg:jacaranda_clearing
+#045 byg:jacaranda_forest
+#379 minecraft:mountains
+#5FF minecraft:river

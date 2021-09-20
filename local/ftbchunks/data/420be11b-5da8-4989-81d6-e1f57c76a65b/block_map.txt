@@ -1,0 +1,12 @@
+#B962AB exnihilosequentia:barrel_wood
+#840F59 minecraft:bedrock
+#C9CBB9 minecraft:blackstone
+#8C5E34 tconstruct:crafting_station
+#80497A minecraft:dirt
+#0DDEDC exnihilosequentia:infested_leaves
+#38EE63 exnihilosequentia:infesting_leaves
+#6B5D25 quark:oak_chest
+#AD9EB5 minecraft:oak_leaves
+#BBA6D1 minecraft:oak_log
+#374556 minecraft:oak_sign
+#8C3EC3 exnihilosequentia:sieve

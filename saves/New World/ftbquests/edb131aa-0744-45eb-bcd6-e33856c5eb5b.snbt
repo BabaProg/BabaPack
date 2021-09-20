@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "edb131aa074445ebbcd6e33856c5eb5b"
+	name: "BabaProg"
+	can_edit: false
+	lock: false
+	money: 0L
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

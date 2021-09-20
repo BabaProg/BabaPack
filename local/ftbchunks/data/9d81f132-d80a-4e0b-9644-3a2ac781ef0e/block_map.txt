@@ -1,0 +1,10 @@
+#52B53D minecraft:air
+#C9CBB9 minecraft:blackstone
+#DA5887 rftoolsbuilder:builder
+#058353 minecraft:cobblestone
+#16D43D ironchest:diamond_chest
+#3F84B7 minecraft:grass_block
+#72D77D minecraft:lever
+#DC3458 minecraft:stone
+#B96EB4 minecraft:structure_block
+#4BB909 rftoolsbuilder:support_block

@@ -1,0 +1,19 @@
+{
+	id: "edb131aa-0744-45eb-bcd6-e33856c5eb5b"
+	type: "player"
+	player_name: "BabaProg"
+	ranks: {
+		edb131aa-0744-45eb-bcd6-e33856c5eb5b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "BabaProg"
+		"ftbteams:color": "#C8FF59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

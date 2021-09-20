@@ -1,0 +1,2 @@
+#52B53D minecraft:air
+#C9CBB9 minecraft:blackstone

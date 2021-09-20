@@ -1,0 +1,3 @@
+#52B53D minecraft:air
+#C9CBB9 minecraft:blackstone
+#4A5E4E minecraft:obsidian
