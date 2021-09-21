@@ -1,40 +1,40 @@
-[20:34:10] [INFO] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
-[20:34:10] [INFO] SourceFile:407: Loaded script server_scripts:script.js in 0.001 s
-[20:34:10] [INFO] SourceFile:407: Loaded 1/1 KubeJS server scripts in 0.003 s
-[20:34:10] [INFO] Scripts loaded
-[20:34:10] [INFO] Scanning recipes...
-[20:34:12] [INFO] [blocks] Found 761 tags, added 0 objects, removed 0 objects
-[20:34:12] [INFO] [items] Found 2136 tags, added 0 objects, removed 0 objects
-[20:34:12] [INFO] [fluids] Found 104 tags, added 0 objects, removed 0 objects
-[20:34:12] [INFO] [entity_types] Found 33 tags, added 0 objects, removed 0 objects
-[20:34:12] [INFO] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
-[20:34:12] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[20:34:12] [INFO] [pigments] Found 0 tags, added 0 objects, removed 0 objects
-[20:34:12] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[20:34:12] [INFO] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
-[20:34:12] [INFO] [slurries] Found 16 tags, added 0 objects, removed 0 objects
-[20:34:12] [INFO] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
-[20:34:12] [INFO] [gases] Found 5 tags, added 0 objects, removed 0 objects
-[20:34:12] [WARN] Failed to parse recipe 'pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
-[20:34:12] [WARN] Failed to parse recipe pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
-[20:34:12] [WARN] Failed to parse recipe pamhc2foodextended:gourmetmuttonpattyitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/mustard'
-[20:34:12] [WARN] Failed to parse recipe 'pamhc2foodextended:gourmetmuttonpattyitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/mustard'
-[20:34:12] [WARN] Failed to parse recipe 'pamhc2foodextended:peachesandcreamoatmealitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crop/peach'
-[20:34:12] [WARN] Failed to parse recipe pamhc2foodextended:peachesandcreamoatmealitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crop/peach'
-[20:34:12] [WARN] Failed to parse recipe pamhc2foodextended:leafyfishsandwichitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'pamhc2foodcore:basicfishsandwhichitem'
-[20:34:12] [WARN] Failed to parse recipe 'pamhc2foodextended:leafyfishsandwichitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'pamhc2foodcore:basicfishsandwhichitem'
-[20:34:12] [WARN] Failed to parse recipe 'pamhc2foodextended:raspberrytrifleitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:vanilla'
-[20:34:12] [WARN] Failed to parse recipe pamhc2foodextended:raspberrytrifleitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:vanilla'
-[20:34:12] [WARN] Failed to parse recipe 'woot:flayed_1[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'bloodmagic:reinforcedslate'
-[20:34:12] [WARN] Failed to parse recipe woot:flayed_1[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'bloodmagic:reinforcedslate'
-[20:34:12] [WARN] Failed to parse recipe 'woot:flayed_2[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'bloodmagic:infusedslate'
-[20:34:12] [WARN] Failed to parse recipe 'woot:flayed_3[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'bloodmagic:demonslate'
-[20:34:12] [WARN] Failed to parse recipe woot:flayed_3[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'bloodmagic:demonslate'
-[20:34:12] [WARN] Failed to parse recipe woot:flayed_2[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'bloodmagic:infusedslate'
-[20:34:12] [WARN] Failed to parse recipe pamhc2foodextended:bangersandmashitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:mashedpotatoes'
-[20:34:12] [WARN] Failed to parse recipe 'pamhc2foodextended:bangersandmashitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:mashedpotatoes'
-[20:34:12] [WARN] Failed to parse recipe 'pamhc2foodextended:rawtofishitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:soysauce'
-[20:34:12] [WARN] Failed to parse recipe pamhc2foodextended:rawtofishitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:soysauce'
-[20:34:12] [WARN] Error parsing recipe immersivepetroleum:hydrotreater/sulfur_recovery[immersivepetroleum:hydrotreater]: {"type":"immersivepetroleum:hydrotreater","time":1,"energy":512,"result":{"fluid":"immersivepetroleum:diesel","amount":7},"input":{"tag":"forge:diesel_sulfur","amount":7},"secondary_input":{"tag":"minecraft:water","amount":7},"secondary_result":{"item":"immersiveengineering:dust_sulfur"}}: java.lang.IllegalArgumentException: Unexpected json object.
-[20:34:13] [WARN] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel_sulfur","amount":14},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"time":1,"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
-[20:34:14] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[21:15:11] [INFO] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
+[21:15:11] [INFO] SourceFile:33: Loaded script server_scripts:script.js in 0.073 s
+[21:15:11] [INFO] Scripts loaded
+[21:15:11] [INFO] SourceFile:33: Loaded 1/1 KubeJS server scripts in 0.076 s
+[21:15:11] [INFO] Scanning recipes...
+[21:15:14] [INFO] [blocks] Found 761 tags, added 0 objects, removed 0 objects
+[21:15:14] [INFO] [items] Found 2136 tags, added 0 objects, removed 0 objects
+[21:15:14] [INFO] [fluids] Found 104 tags, added 0 objects, removed 0 objects
+[21:15:14] [INFO] [entity_types] Found 33 tags, added 0 objects, removed 0 objects
+[21:15:14] [INFO] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[21:15:14] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[21:15:14] [INFO] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[21:15:14] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[21:15:14] [INFO] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
+[21:15:14] [INFO] [slurries] Found 16 tags, added 0 objects, removed 0 objects
+[21:15:14] [INFO] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[21:15:14] [INFO] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[21:15:14] [WARN] Failed to parse recipe pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
+[21:15:14] [WARN] Failed to parse recipe 'pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
+[21:15:14] [WARN] Failed to parse recipe pamhc2foodextended:gourmetmuttonpattyitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/mustard'
+[21:15:14] [WARN] Failed to parse recipe 'pamhc2foodextended:gourmetmuttonpattyitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crops/mustard'
+[21:15:14] [WARN] Failed to parse recipe pamhc2foodextended:peachesandcreamoatmealitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crop/peach'
+[21:15:14] [WARN] Failed to parse recipe 'pamhc2foodextended:peachesandcreamoatmealitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crop/peach'
+[21:15:14] [WARN] Failed to parse recipe pamhc2foodextended:leafyfishsandwichitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'pamhc2foodcore:basicfishsandwhichitem'
+[21:15:14] [WARN] Failed to parse recipe 'pamhc2foodextended:leafyfishsandwichitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'pamhc2foodcore:basicfishsandwhichitem'
+[21:15:14] [WARN] Failed to parse recipe 'pamhc2foodextended:raspberrytrifleitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:vanilla'
+[21:15:14] [WARN] Failed to parse recipe pamhc2foodextended:raspberrytrifleitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:vanilla'
+[21:15:14] [WARN] Failed to parse recipe woot:flayed_1[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'bloodmagic:reinforcedslate'
+[21:15:14] [WARN] Failed to parse recipe 'woot:flayed_1[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'bloodmagic:reinforcedslate'
+[21:15:14] [WARN] Failed to parse recipe 'woot:flayed_3[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'bloodmagic:demonslate'
+[21:15:14] [WARN] Failed to parse recipe woot:flayed_3[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'bloodmagic:demonslate'
+[21:15:14] [WARN] Failed to parse recipe 'woot:flayed_2[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'bloodmagic:infusedslate'
+[21:15:14] [WARN] Failed to parse recipe woot:flayed_2[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'bloodmagic:infusedslate'
+[21:15:14] [WARN] Failed to parse recipe 'pamhc2foodextended:bangersandmashitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:mashedpotatoes'
+[21:15:14] [WARN] Failed to parse recipe pamhc2foodextended:bangersandmashitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:mashedpotatoes'
+[21:15:14] [WARN] Failed to parse recipe 'pamhc2foodextended:rawtofishitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:soysauce'
+[21:15:14] [WARN] Failed to parse recipe pamhc2foodextended:rawtofishitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:soysauce'
+[21:15:15] [WARN] Error parsing recipe immersivepetroleum:hydrotreater/sulfur_recovery[immersivepetroleum:hydrotreater]: {"type":"immersivepetroleum:hydrotreater","time":1,"energy":512,"result":{"fluid":"immersivepetroleum:diesel","amount":7},"input":{"tag":"forge:diesel_sulfur","amount":7},"secondary_input":{"tag":"minecraft:water","amount":7},"secondary_result":{"item":"immersiveengineering:dust_sulfur"}}: java.lang.IllegalArgumentException: Unexpected json object.
+[21:15:15] [WARN] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel_sulfur","amount":14},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"time":1,"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
+[21:15:17] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects

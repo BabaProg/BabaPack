@@ -7,7 +7,7 @@
 	}
 	properties: {
 		"ftbteams:display_name": "BabaProg"
-		"ftbteams:color": "#FF59E7"
+		"ftbteams:color": "#FF599E"
 		"ftbchunks:block_edit_mode": "allies"
 		"ftbchunks:block_interact_mode": "allies"
 		"ftbteams:description": ""

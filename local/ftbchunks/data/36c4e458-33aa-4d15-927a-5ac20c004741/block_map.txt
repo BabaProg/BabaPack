@@ -1,0 +1,4 @@
+#840F59 minecraft:bedrock
+#C9CBB9 minecraft:blackstone
+#80497A minecraft:dirt
+#6A8B3A minecraft:spruce_log

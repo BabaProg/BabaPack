@@ -1,0 +1,12 @@
+#556 minecraft:beach
+#3DE minecraft:deep_ocean
+#678 byg:fresh_water_lake
+#4F1 minecraft:ocean
+#3DC minecraft:plains
+#5FF minecraft:river
+#228 byg:rocky_beach
+#169 minecraft:taiga
+#47B byg:the_black_forest
+#7B4 byg:zelkova_clearing
+#11C byg:zelkova_forest
+#56F byg:zelkova_forest_hills
